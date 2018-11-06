@@ -1,0 +1,13 @@
+#floatLeft{
+    float: left;
+}
+/* here i am forcing the text with the id floatLeft to go to the left side of the screen */
+#floatRight{
+float: right;
+}
+/* same as the last one but forcing it to move right */
+#inherit{
+float: inherit;
+    color: blue;
+}
+/* cant find anything on how to use float inherit so i just changed the colot to show that i linked the css correct */
